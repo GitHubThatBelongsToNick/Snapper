@@ -1,0 +1,17 @@
+﻿  GeoImg.cpp
+  Params.cpp
+c:\work\spacial\programs\snapper\snapper\params.cpp(18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Snapper.cpp
+c:\work\spacial\programs\snapper\snapper\snapper.cpp(64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\work\spacial\programs\snapper\snapper\snapper.cpp(29): warning C4101: 'rightHigh': unreferenced local variable
+c:\work\spacial\programs\snapper\snapper\snapper.cpp(29): warning C4101: 'bottomHigh': unreferenced local variable
+c:\work\spacial\programs\snapper\snapper\snapper.cpp(30): warning C4101: 'leftMed': unreferenced local variable
+c:\work\spacial\programs\snapper\snapper\snapper.cpp(30): warning C4101: 'bottomMed': unreferenced local variable
+c:\work\spacial\programs\snapper\snapper\snapper.cpp(29): warning C4101: 'leftHigh': unreferenced local variable
+c:\work\spacial\programs\snapper\snapper\snapper.cpp(30): warning C4101: 'rightMed': unreferenced local variable
+c:\work\spacial\programs\snapper\snapper\snapper.cpp(29): warning C4101: 'topHigh': unreferenced local variable
+c:\work\spacial\programs\snapper\snapper\snapper.cpp(30): warning C4101: 'topMed': unreferenced local variable
+  Generating code
+  All 199 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snapper.vcxproj -> C:\Work\Spacial\Programs\Snapper\x64\Release\Snapper.exe

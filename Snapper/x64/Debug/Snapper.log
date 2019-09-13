@@ -1,0 +1,5 @@
+﻿  GeoImg.cpp
+  Snapper.cpp
+c:\work\spacial\programs\snapper\snapper\snapper.cpp(103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Snapper.vcxproj -> C:\Work\Spacial\Programs\Snapper\x64\Debug\Snapper.exe
